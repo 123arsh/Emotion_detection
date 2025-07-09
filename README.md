@@ -8,4 +8,4 @@ This project detects emotions from text using a FastAPI backend and a Next.js fr
 
 **Tech:** FastAPI, Pydantic, Uvicorn, CORS, Next.js, React, TypeScript.
 
-Input text in the frontend, get emotion predictions from the backend.
+Input text in the frontend, get emotion predictions from the backend. 
